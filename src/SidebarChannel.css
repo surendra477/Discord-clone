@@ -1,0 +1,20 @@
+.slidebarChannel:hover >h4{
+    color: white;
+    background-color: #40464b;
+}
+
+
+.slidebarChannel > h4{
+    display: flex;
+    padding-left: 15px;
+    align-items: center;
+    background-color: #2f3135;
+    color: gray;
+    cursor: pointer;
+}
+
+.slidebarChannel__hash{
+    font-size: 30px;
+    padding: 8px;
+}
+
